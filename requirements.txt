@@ -1,0 +1,7 @@
+Pandas
+geopandas
+folium
+matplotlib
+numpy
+json
+unicodedata
