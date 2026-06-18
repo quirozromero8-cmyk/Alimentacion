@@ -34,7 +34,7 @@ Alimentacion/
 
 ---
 
-## Libraries Used
+## Technologies Implemented:
 
 - `pandas` — data manipulation
 - `numpy` — numerical calculations
